@@ -1,8 +1,9 @@
-Video search
+# Video search
 
 With this application it's possible searching videos on Youtube, was made in React.
 
-Local run
+## Local run
+
 Download or clone the repository.
 
 Open a command-prompt.
